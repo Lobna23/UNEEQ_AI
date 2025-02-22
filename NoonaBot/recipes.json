@@ -1,0 +1,38 @@
+{
+    "Spaghetti Carbonara": {
+        "ingredients": ["spaghetti", "eggs", "pancetta", "parmesan", "black pepper"],
+        "instructions": "Boil spaghetti until al dente. In a pan, cook pancetta until crispy. In a bowl, whisk eggs with grated Parmesan and black pepper. Toss hot pasta with pancetta, then mix in the egg mixture off the heat. Stir well and serve immediately."
+    },
+    "Margherita Pizza": {
+        "ingredients": ["pizza dough", "tomato sauce", "mozzarella", "basil", "olive oil"],
+        "instructions": "Preheat oven to 220°C (430°F). Roll out pizza dough, spread tomato sauce, and top with mozzarella. Bake for 10-12 minutes until golden. Add fresh basil and a drizzle of olive oil before serving."
+    },
+    "Pesto Pasta": {
+        "ingredients": ["pasta", "basil", "parmesan", "garlic", "olive oil", "pine nuts"],
+        "instructions": "Cook pasta until al dente. Blend basil, Parmesan, garlic, olive oil, and pine nuts into a smooth paste. Toss with pasta and serve with extra cheese."
+    },
+    "Lasagna": {
+        "ingredients": ["lasagna sheets", "ground beef", "tomato sauce", "ricotta", "mozzarella", "parmesan"],
+        "instructions": "Brown beef in a pan, add tomato sauce and simmer. Layer lasagna sheets with the sauce, ricotta, and mozzarella. Repeat layers and finish with Parmesan. Bake at 180°C (350°F) for 40 minutes."
+    },
+    "Risotto alla Milanese": {
+        "ingredients": ["arborio rice", "saffron", "butter", "parmesan", "onion", "white wine", "chicken broth"],
+        "instructions": "Sauté chopped onion in butter. Add arborio rice and toast for a minute. Deglaze with white wine, then add warm broth gradually. Stir in saffron and Parmesan, then serve creamy."
+    },
+    "Caprese Salad": {
+        "ingredients": ["tomato", "mozzarella", "basil", "olive oil", "balsamic vinegar"],
+        "instructions": "Slice tomatoes and mozzarella. Layer with fresh basil leaves. Drizzle with olive oil and balsamic vinegar, then season with salt and pepper."
+    },
+    "Tiramisu": {
+        "ingredients": ["mascarpone", "eggs", "sugar", "espresso", "ladyfingers", "cocoa powder"],
+        "instructions": "Whisk egg yolks and sugar until creamy. Mix in mascarpone. Dip ladyfingers in espresso and layer with mascarpone mix. Repeat and dust with cocoa. Chill for 4 hours before serving."
+    },
+    "Minestrone Soup": {
+        "ingredients": ["carrots", "celery", "onion", "zucchini", "tomato", "beans", "pasta", "vegetable broth"],
+        "instructions": "Sauté onion, carrot, and celery. Add tomatoes, broth, and beans. Simmer for 30 minutes, then add zucchini and pasta. Cook until pasta is tender. Serve hot."
+    },
+    "Focaccia": {
+        "ingredients": ["flour", "yeast", "olive oil", "salt", "rosemary"],
+        "instructions": "Mix flour, yeast, water, and salt. Knead into a dough, let rise, then press into a pan. Drizzle with olive oil and sprinkle rosemary. Bake at 200°C (400°F) until golden brown."
+    }
+}
