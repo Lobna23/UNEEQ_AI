@@ -1,1 +1,1 @@
-This simple code is for a color detection project made using openCV and deployed using Streamlit
+This repository is for the projects I have completed for my UneeQ INterns AI Internship. Feb 2025 batch 
